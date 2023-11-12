@@ -1,0 +1,7 @@
+Form > 
+    Input prompt 
+
+Chat box >
+    Separate classes for design purposes:
+        chat-text-v
+        chat-text-u
